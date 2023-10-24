@@ -1,0 +1,1 @@
+SELECT * FROM groceries JOIN customers ON groceries.customer_id = customers.customer_id;
